@@ -6,7 +6,7 @@
 ### <div align="center">I'm Musa, a full-time front-end developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning React frameworks and TypeScript 
   
 
 - 👀 I'm interested in Front-end Development  
